@@ -1,2 +1,3 @@
-# wedge
+# Wedge
 ADA Wedge Project
+
